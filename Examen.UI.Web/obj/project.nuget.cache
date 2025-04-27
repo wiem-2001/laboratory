@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VzjIOkOxX0c=",
+  "dgSpecHash": "NJuIAO7Eftk=",
   "success": true,
-  "projectFilePath": "C:\\4twin sem2\\dotNet\\Examen\\Examen.UI.Web\\Examen.UI.Web.csproj",
+  "projectFilePath": "C:\\4twin_sem2\\dotNet\\Examen\\Examen.UI.Web\\Examen.UI.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wiemb\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\wiemb\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

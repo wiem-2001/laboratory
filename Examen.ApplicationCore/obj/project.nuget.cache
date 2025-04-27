@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vbwnjStRwCA=",
+  "dgSpecHash": "BvxjfwQPiIM=",
   "success": true,
-  "projectFilePath": "C:\\4twin sem2\\dotNet\\Examen\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
+  "projectFilePath": "C:\\4twin_sem2\\dotNet\\Examen\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wiemb\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.2\\microsoft.entityframeworkcore.9.0.2.nupkg.sha512",
     "C:\\Users\\wiemb\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.2\\microsoft.entityframeworkcore.abstractions.9.0.2.nupkg.sha512",

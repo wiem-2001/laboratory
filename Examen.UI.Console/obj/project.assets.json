@@ -4748,11 +4748,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\4twin sem2\\dotNet\\Examen\\Examen.UI.Console\\Examen.UI.Console.csproj",
+      "projectUniqueName": "C:\\4twin_sem2\\dotNet\\Examen\\Examen.UI.Console\\Examen.UI.Console.csproj",
       "projectName": "Examen.UI.Console",
-      "projectPath": "C:\\4twin sem2\\dotNet\\Examen\\Examen.UI.Console\\Examen.UI.Console.csproj",
+      "projectPath": "C:\\4twin_sem2\\dotNet\\Examen\\Examen.UI.Console\\Examen.UI.Console.csproj",
       "packagesPath": "C:\\Users\\wiemb\\.nuget\\packages\\",
-      "outputPath": "C:\\4twin sem2\\dotNet\\Examen\\Examen.UI.Console\\obj\\",
+      "outputPath": "C:\\4twin_sem2\\dotNet\\Examen\\Examen.UI.Console\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4773,11 +4773,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\4twin sem2\\dotNet\\Examen\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj": {
-              "projectPath": "C:\\4twin sem2\\dotNet\\Examen\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj"
+            "C:\\4twin_sem2\\dotNet\\Examen\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj": {
+              "projectPath": "C:\\4twin_sem2\\dotNet\\Examen\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj"
             },
-            "C:\\4twin sem2\\dotNet\\Examen\\Examen.Infrastructure\\Examen.Infrastructure.csproj": {
-              "projectPath": "C:\\4twin sem2\\dotNet\\Examen\\Examen.Infrastructure\\Examen.Infrastructure.csproj"
+            "C:\\4twin_sem2\\dotNet\\Examen\\Examen.Infrastructure\\Examen.Infrastructure.csproj": {
+              "projectPath": "C:\\4twin_sem2\\dotNet\\Examen\\Examen.Infrastructure\\Examen.Infrastructure.csproj"
             }
           }
         }
